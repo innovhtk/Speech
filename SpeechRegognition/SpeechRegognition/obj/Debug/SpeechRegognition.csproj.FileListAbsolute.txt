@@ -1,0 +1,9 @@
+c:\users\eleazar\documents\visual studio 2013\Projects\SpeechRegognition\SpeechRegognition\bin\Debug\SpeechRegognition.exe.config
+c:\users\eleazar\documents\visual studio 2013\Projects\SpeechRegognition\SpeechRegognition\bin\Debug\SpeechRegognition.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\SpeechRegognition\SpeechRegognition\bin\Debug\SpeechRegognition.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\SpeechRegognition\SpeechRegognition\obj\Debug\SpeechRegognition.csprojResolveAssemblyReference.cache
+c:\users\eleazar\documents\visual studio 2013\Projects\SpeechRegognition\SpeechRegognition\obj\Debug\SpeechRegognition.Form1.resources
+c:\users\eleazar\documents\visual studio 2013\Projects\SpeechRegognition\SpeechRegognition\obj\Debug\SpeechRegognition.Properties.Resources.resources
+c:\users\eleazar\documents\visual studio 2013\Projects\SpeechRegognition\SpeechRegognition\obj\Debug\SpeechRegognition.csproj.GenerateResource.Cache
+c:\users\eleazar\documents\visual studio 2013\Projects\SpeechRegognition\SpeechRegognition\obj\Debug\SpeechRegognition.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\SpeechRegognition\SpeechRegognition\obj\Debug\SpeechRegognition.pdb

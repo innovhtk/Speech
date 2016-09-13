@@ -1,0 +1,5 @@
+c:\users\eleazar\documents\visual studio 2013\Projects\speech\speech\bin\Debug\speech.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\speech\speech\bin\Debug\speech.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\speech\speech\obj\Debug\speech.csprojResolveAssemblyReference.cache
+c:\users\eleazar\documents\visual studio 2013\Projects\speech\speech\obj\Debug\speech.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\speech\speech\obj\Debug\speech.pdb
